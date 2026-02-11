@@ -31,7 +31,7 @@ Automated movie ticket booking workflow:
 - Date and show timing selection
 - Seat selection
 - Booking confirmation validation
-- 
+
 Project Link:  
 https://github.com/YogapriyaMuthuvel/testleaf-assignments/tree/main/marathon2
 
