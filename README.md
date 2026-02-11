@@ -5,7 +5,7 @@ The automation follows basic **Page Object Model (POM)** principles and real-wor
 
 ---
 
-## 🧪 Marathon 1 – E-Commerce Automation
+##  Marathon 1 – E-Commerce Automation
 
 Automated end-to-end user flows for e-commerce platforms including:
 
@@ -27,7 +27,7 @@ https://github.com/YogapriyaMuthuvel/testleaf-assignments/tree/main/marathon1
 
 ---
 
-## 🧪 Marathon 2 – PVR Cinema Automation
+##  Marathon 2 – PVR Cinema Automation
 
 Automated movie ticket booking workflow:
 
@@ -45,7 +45,7 @@ https://github.com/YogapriyaMuthuvel/testleaf-assignments/tree/main/marathon2
 
 ---
 
-## 🧪 Marathon 3 – Salesforce Account Automation
+##  Marathon 3 – Salesforce Account Automation
 
 Automated Salesforce CRM account operations:
 
@@ -58,12 +58,12 @@ Automated Salesforce CRM account operations:
 ✅ Implemented structured Selenium tests  
 ✅ Used assertions and validations for workflow success
 
-🔗 Folder Link:  
+Folder Link:  
 https://github.com/YogapriyaMuthuvel/testleaf-assignments/tree/main/marathon3
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Language:** Java  
 - **Automation:** Selenium WebDriver  
@@ -75,7 +75,7 @@ https://github.com/YogapriyaMuthuvel/testleaf-assignments/tree/main/marathon3
 
 ---
 
-## 📦 How to Run the Tests
+##  How to Run the Tests
 
 1. Clone this repository:
 
@@ -89,7 +89,7 @@ https://github.com/YogapriyaMuthuvel/testleaf-assignments/tree/main/marathon3
 
 ---
 
-## 📌 Notes
+##  Notes
 
 - The test scripts are built for practice and validation purposes.
 - No real transactions/payment data is performed.
@@ -97,7 +97,7 @@ https://github.com/YogapriyaMuthuvel/testleaf-assignments/tree/main/marathon3
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Yogapriya Muthuvel**  
 QA Engineer | Manual & Automation Testing  
